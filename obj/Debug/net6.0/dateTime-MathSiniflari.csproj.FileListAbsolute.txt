@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Masaüstü\pratikler\dateTime-Math sınıfları\dateTime-MathSiniflari\bin\Debug\net6.0\dateTime-MathSiniflari.exe
+C:\Users\user\OneDrive\Masaüstü\pratikler\dateTime-Math sınıfları\dateTime-MathSiniflari\bin\Debug\net6.0\dateTime-MathSiniflari.deps.json
+C:\Users\user\OneDrive\Masaüstü\pratikler\dateTime-Math sınıfları\dateTime-MathSiniflari\bin\Debug\net6.0\dateTime-MathSiniflari.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\pratikler\dateTime-Math sınıfları\dateTime-MathSiniflari\bin\Debug\net6.0\dateTime-MathSiniflari.dll
+C:\Users\user\OneDrive\Masaüstü\pratikler\dateTime-Math sınıfları\dateTime-MathSiniflari\bin\Debug\net6.0\ref\dateTime-MathSiniflari.dll
+C:\Users\user\OneDrive\Masaüstü\pratikler\dateTime-Math sınıfları\dateTime-MathSiniflari\bin\Debug\net6.0\dateTime-MathSiniflari.pdb
+C:\Users\user\OneDrive\Masaüstü\pratikler\dateTime-Math sınıfları\dateTime-MathSiniflari\obj\Debug\net6.0\dateTime-MathSiniflari.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\pratikler\dateTime-Math sınıfları\dateTime-MathSiniflari\obj\Debug\net6.0\dateTime-MathSiniflari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\pratikler\dateTime-Math sınıfları\dateTime-MathSiniflari\obj\Debug\net6.0\dateTime-MathSiniflari.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\pratikler\dateTime-Math sınıfları\dateTime-MathSiniflari\obj\Debug\net6.0\dateTime-MathSiniflari.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\pratikler\dateTime-Math sınıfları\dateTime-MathSiniflari\obj\Debug\net6.0\dateTime-MathSiniflari.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\pratikler\dateTime-Math sınıfları\dateTime-MathSiniflari\obj\Debug\net6.0\dateTime-MathSiniflari.dll
+C:\Users\user\OneDrive\Masaüstü\pratikler\dateTime-Math sınıfları\dateTime-MathSiniflari\obj\Debug\net6.0\ref\dateTime-MathSiniflari.dll
+C:\Users\user\OneDrive\Masaüstü\pratikler\dateTime-Math sınıfları\dateTime-MathSiniflari\obj\Debug\net6.0\dateTime-MathSiniflari.pdb
+C:\Users\user\OneDrive\Masaüstü\pratikler\dateTime-Math sınıfları\dateTime-MathSiniflari\obj\Debug\net6.0\dateTime-MathSiniflari.genruntimeconfig.cache
